@@ -1,5 +1,8 @@
 # Basic Data Types in Python
 
+## 📚 Introduction
+This document provides an overview of the **basic data types** in Python. Data types are the building blocks of any programming language, and understanding them is essential to mastering Python. The most common data types in Python include integers, floats, strings, booleans, lists, tuples, sets, and dictionaries. Each data type has its own unique properties and use cases in programming.
+
 ## 📝 Common Data Types
 
 | Data Type | Example | Description |
