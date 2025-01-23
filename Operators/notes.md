@@ -12,7 +12,7 @@ Operators in Python are special symbols that perform operations on variables and
 | **Arithmetic**           | `+`, `-`, `*`, `/`, `//`, `%`, `**`             | Perform mathematical operations. |
 | **Comparison (Relational)** | `==`, `!=`, `>`, `<`, `>=`, `<=`             | Compare values and return `True` or `False`. |
 | **Logical**              | `and`, `or`, `not`                             | Used to combine conditional statements. |
-| **Bitwise**              | `&`, `|`, `^`, `~`, `<<`, `>>`                 | Perform operations on bits. |
+| **Bitwise**              | `&`, `\|`, `^`, `~`, `<<`, `>>`                 | Perform operations on bits. |
 | **Assignment**           | `=`, `+=`, `-=`, `*=`, `/=`, `//=`, `%=`       | Assign values to variables. |
 | **Identity**             | `is`, `is not`                                 | Check if two variables reference the same object. |
 | **Membership**           | `in`, `not in`                                 | Check if a value exists in a sequence (list, tuple, string, etc.). |
