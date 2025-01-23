@@ -123,7 +123,7 @@ Used to check if a value is in a sequence.
 
 ## 📂 Reference Code  
 [🔗 Click here to view basic operator examples](./basic_operator.py)  
-[🔗 Click here to view more operator examples](./more_on_operator.py)  
+[🔗 Click here to view more operator examples](./more_on_operators.py)  
 
 
 ---
