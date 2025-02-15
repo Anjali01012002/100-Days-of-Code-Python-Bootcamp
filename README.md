@@ -16,7 +16,7 @@ I am currently learning Python through the **100 Days of Code** challenge. Here'
 - ✅ **Basic Data Types**: Completed learning about basic data types, variables, and operations.  
 - ✅ **Basic Operators**: Learned about arithmetic, comparison, logical, bitwise, and other operators in Python.  
 - ✅ **Control Flow**: Completed learning about if, if-else, logical operators, and conditional expressions in Python.
-- ✅ Iterations/Loops: Learned about loops in Python, including for loops, while loops, nested loops, and loop control statements.
+- ✅ **Iterations/Loops**: Learned about loops in Python, including for loops, while loops, nested loops, and loop control statements.
 
 ## 🔧 How to Run This Repository Locally:
 To run the code in this repository, clone it to your local machine using the following command:
